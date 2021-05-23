@@ -1,3 +1,6 @@
 [submodule "project0"]
 	path = project0
 	url = https://github.com/the-lotuseater/project0
+[submodule "project1"]
+	path = project1
+	url = https://github.com/the-lotuseater/project1
